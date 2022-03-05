@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+"engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
@@ -20,9 +23,7 @@
     "passport-github2": "^0.1.12",
     "passport-google-oauth20": "^2.0.0",
     "passport-twitter": "^1.0.4"
-  },
-  "engines": {
-    "node": "16.x"
   }
+  
 }
 
